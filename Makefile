@@ -4,4 +4,4 @@
 #
 hellomake: list.c main.c
 	gcc -o hellomake list.c main.c
-# <Author>
+# <Sydney Kadegnon>
